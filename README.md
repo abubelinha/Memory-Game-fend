@@ -9,6 +9,7 @@ Match cards in less time with less moves.
 
 ## How to Play
 Load this link in your browser https://memory-game-fend.herokuapp.com/
+OR https://sandraisrael.github.io/Memory-Game-fend/
 
 ## Instructions
 * Click on a card
