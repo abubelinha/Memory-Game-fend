@@ -1,5 +1,5 @@
 # Memory Game Project
-
+See tutorial in https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
 ![snippet](img/snippet.png)
